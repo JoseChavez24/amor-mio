@@ -1,0 +1,28 @@
+*{
+  font-family: 'helvetica';
+  background-image: url(cora.jpg);
+}
+.t1{
+  margin-top: 80px;
+  text-align: center;
+  font-size: 80px;
+  font-style: italic;
+  text-decoration: underline;
+  text-shadow: 6px 6px pink;
+}
+
+.t2{
+  text-align: center;
+  font-size: 80px;
+  text-decoration: underline;
+  font-style: italic;
+  text-shadow: 6px 6px pink;
+}
+
+.foto2{
+  width: 10%;
+  height: 10%;
+  margin-left: 700px;
+  margin-bottom: 0px;
+  border: 10px solid red;
+}
